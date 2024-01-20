@@ -1,0 +1,32 @@
+header{
+    background-color: #4B8600;
+}
+
+img{
+    border: none;
+}
+
+body{
+    background-color: #3F7000;
+}
+
+#imgPrincipal{
+    width: 100%;
+    height: 100vh;
+    object-fit: cover;
+    opacity: 0.4;
+}
+
+#texImg{
+    position: relative;
+}
+
+#sinopse{
+    position: absolute;
+    left: 10%;
+    right: 10%;
+    top: 28%;
+    color:white;
+    font-size: 250%;
+    text-align: center;
+}
